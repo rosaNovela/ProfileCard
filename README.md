@@ -1,5 +1,4 @@
 # ProfileCard
-<img width="1346" height="907" alt="image" src="https://github.com/user-attachments/assets/10a1e20b-9ebe-4794-b1e5-1e6126478439" />
 Profile Card | HTML5 & CSS3
 
 Think of it as a digital business card.

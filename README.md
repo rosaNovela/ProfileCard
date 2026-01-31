@@ -1,9 +1,10 @@
 # ProfileCard
+<img width="1346" height="907" alt="image" src="https://github.com/user-attachments/assets/10a1e20b-9ebe-4794-b1e5-1e6126478439" />
 Profile Card | HTML5 & CSS3
 
 Think of it as a digital business card.
 A sleek, minimalist profile card component designed with a focus on clean UI and responsive web design. This project serves as a showcase of core CSS layout techniques—specifically the Box Model, Flexbox positioning, and custom hover transitions—without the use of external frameworks or libraries.
-------------------------------------------------------------------------------------------------
+
 Technical Highlights:
 Layout: Utilized CSS Flexbox for perfect vertical and horizontal centering.
 Styling: Implemented box-shadow layering and border-radius for a modern "card" aesthetic.
